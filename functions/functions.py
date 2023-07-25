@@ -1,7 +1,6 @@
 import requests
 import hashlib
 import subprocess
-from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
